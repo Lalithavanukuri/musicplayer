@@ -25,4 +25,4 @@ A straightforward and minimalistic music player implemented using HTML, CSS, and
 Feel free to customize the track list and styling to match your preferences.
 
 ## Screenshots
-Screenshots attached in screenshots.pdf
+Screenshots attached in music_screenshots.pdf
